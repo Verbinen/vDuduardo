@@ -1,4 +1,4 @@
-## Hi there! I'm Eduardo Verbinen
+## Hello there!
 
 <div>
   <a href="https://github.com/Verbinen">
