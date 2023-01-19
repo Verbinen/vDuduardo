@@ -1,7 +1,7 @@
 ## Hi there! I'm Eduardo Verbinen
 
 <div>
-  <a href="https://github.com/vDuduardo">
+  <a href="https://github.com/Verbinen">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vDuduardo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vDuduardo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -23,7 +23,7 @@
   <a href = "mailto:everbinen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardoverbinen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/vDuduardo/vDuduardo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Verbinen/Verbinen/blob/output/github-contribution-grid-snake.svg)
 
 </div>
   
